@@ -1,0 +1,4 @@
+igo
+===
+
+Idiomatic Go
